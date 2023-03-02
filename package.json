@@ -1,0 +1,21 @@
+{
+  "name": "@pwa/sample",
+  "version": "1.0.0",
+  "description": "Composable Storefront用パッケージ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takahoh/pwa-libs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/takahoh/pwa-libs/issues"
+  },
+  "keywords": [
+    "composable storefornt"
+  ],
+  "author": "",
+  "license": "MIT"
+}
