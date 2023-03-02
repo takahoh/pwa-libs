@@ -13,6 +13,7 @@
   "bugs": {
     "url": "https://github.com/takahoh/pwa-libs/issues"
   },
+  "homepage": "https://github.com/takahoh/pwa-libs/blob/main/README.md",
   "keywords": [
     "composable storefornt"
   ],
