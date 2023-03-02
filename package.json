@@ -1,8 +1,8 @@
 {
   "name": "pwasample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Composable Storefront用パッケージ",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
