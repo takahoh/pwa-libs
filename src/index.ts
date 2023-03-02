@@ -1,8 +1,9 @@
 export class Test {
-    constructor(name) {
+    name: string
+    constructor(name: string) {
       this.name = name
     }
-    action() {
+    action():string {
       return `Hello ${this.name}`
     }
   }
